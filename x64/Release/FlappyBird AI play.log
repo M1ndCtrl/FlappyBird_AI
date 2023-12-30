@@ -1,0 +1,42 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (FlappyBird.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Controller.cpp
+C:\Users\Gebruiker\source\repos\FlappyBird AI play\FlappyBird AI play\Controller.cpp(97,23): warning C4244: 'argument': conversion from 'unsigned int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Gebruiker\source\repos\FlappyBird AI play\FlappyBird AI play\Controller.cpp(98,23): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Gebruiker\source\repos\FlappyBird AI play\FlappyBird AI play\Controller.cpp(99,23): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Gebruiker\source\repos\FlappyBird AI play\FlappyBird AI play\Controller.cpp(177,25): warning C4244: '=': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Gebruiker\source\repos\FlappyBird AI play\FlappyBird AI play\Controller.cpp(178,28): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Gebruiker\source\repos\FlappyBird AI play\FlappyBird AI play\Controller.cpp(179,28): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  GameControl.cpp
+C:\Users\Gebruiker\source\repos\FlappyBird AI play\FlappyBird AI play\GameControl.cpp(121,22): warning C4018: '>': signed/unsigned mismatch
+  Player.cpp
+  Wall.cpp
+  Window.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 490 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FlappyBird AI play.vcxproj -> C:\Users\Gebruiker\source\repos\FlappyBird AI play\x64\Release\FlappyBird AI play.exe
